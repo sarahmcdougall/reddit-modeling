@@ -1,4 +1,4 @@
-# Reddit Topic Modeling and Comparison with Published Research using BERT
+# Reddit Topic Modeling and Comparison with Mainstream News using BERT
 
 ## Project Overview
 This project aims to apply NLP techniques to Reddit data to analyze discussion trends in pregnancy-related subreddits and compare common themes against topics covered by mainstream news.
